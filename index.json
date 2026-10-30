@@ -13,7 +13,10 @@
       },
       "manifest": "plugins/agent2api-providers.json",
       "official": true,
-      "tags": ["official", "providers"]
+      "tags": [
+        "official",
+        "providers"
+      ]
     },
     {
       "id": "agent2api-web-providers",
@@ -22,11 +25,15 @@
       "icon": "icons/agent2api-web-providers.png",
       "source": {
         "type": "github-release",
-        "repo": "Agent2Builder/agent2api-providers-releases"
+        "repo": "vbox-Ai/OpenAI-web-"
       },
       "manifest": "plugins/agent2api-web-providers.json",
       "official": true,
-      "tags": ["official", "providers", "web"]
+      "tags": [
+        "official",
+        "providers",
+        "web"
+      ]
     }
   ]
 }
